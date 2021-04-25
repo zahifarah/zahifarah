@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @zahifarah. I'm a film director who's passionate about tech and wants to play a role in it.
+- 👋 Hi, I’m @zahifarah. I'm a film director who's passionate about tech.
 - 👀 Web and Blockchain Development.
 - 🌱 Currently taking Colt Steele's Full Stack Web Development course (2021). 
-- 💞️ Looking to collaborate on Blockchain projects! Decentralization, NFTs, Privacy and Digital Identity are topics I find particularly interesting.
+- 💞️ Looking to collaborate on Blockchain projects. Decentralization, NFTs, Privacy and Digital Identity are topics I find particularly interesting.
 - 📫 Feel free to reach out on @zahifarah on either twitter or instagram :)
 
 <!---
