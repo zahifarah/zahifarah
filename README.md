@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zahifarah. I'm a film director who's passionate about tech.
 - 👀 Web and Blockchain Development.
 - 🌱 Currently taking Colt Steele's Full Stack Web Development course (2021). 
-- 🥋 HTML, CSS, JavaScript, Bootstrap, Bulma, Postman, Axios and counting.
+- 🥋 HTML, CSS, JavaScript, Bootstrap, Bulma, NodeJS and counting!
 - 💞️ Looking to collaborate on Blockchain projects. Decentralization, NFTs, Privacy, Digital Identity and Cybersecurity are topics I find particularly interesting.
 - 📫 Feel free to reach out on @zahifarah on either twitter or instagram.
 
