@@ -91,12 +91,12 @@ I'm a [film director] turned developer around the start of 2021.
 [instagram]: https://www.instagram.com/zahi.farah/
 [linkedin]: https://www.linkedin.com/in/zahi-farah/
 
-<!--       <img
+<!-- <img
          align="left"
          alt="Sass"
          width="26px"
          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
-/> -->
+/>  -->
 <!--       <img
          align="left"
          alt="Gatsby"
@@ -126,4 +126,4 @@ I'm a [film director] turned developer around the start of 2021.
          alt="MySQL"
          width="26px"
          src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
-      /> -->
+/> -->
