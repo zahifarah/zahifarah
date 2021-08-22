@@ -6,7 +6,7 @@ I'm a [film director] turned developer around the start of 2021.
 * Current stack: MERN (MongoDB, Express, React, Node), JS, HTML, CSS, Bootstrap 4/5.
 * On my radar: Solidity + Smart Contracts 📚
 * Excited about blockchain's potential, particularly projects that have to do with: privacy, digital identity, oracle networks, cybersecurity, decentralized internet, decentralized storage and NFTs.
-* You can find me on [Chess.com](https://www.chess.com/member/vaylxx) if that's your thing as well :)
+* Into [chess]?
 
 ### Let's connect:
 
@@ -122,6 +122,7 @@ I'm a [film director] turned developer around the start of 2021.
 ---
 
 [film director]: http://zahifarah.com/
+[chess]: (https://www.chess.com/member/vaylxx)
 [twitter]: https://twitter.com/ZahiFarah
 [instagram]: https://www.instagram.com/zahi.farah/
 [linkedin]: https://www.linkedin.com/in/zahi-farah/
