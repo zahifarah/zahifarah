@@ -5,7 +5,7 @@ I'm a [film director] turned developer around the start of 2021.
 * Working my way towards Web3 and Blockchain Development
 * Current stack: MERN (MongoDB, Express, React, Node), JS, HTML, CSS, Bootstrap 4/5.
 * On my radar: Solidity + Smart Contracts 📚
-* Excited about blockchain's potential, particularly projects that have to do with: privacy, digital identity, oracle networks, cybersecurity, decentralized internet, decentralized storage and NFTs.
+* Excited about blockchain's potential, particularly projects that have to do with Privacy, Digital Identity, Oracle Networks, Cybersecurity, Decentralized Internet, Decentralized Storage and NFTs.
 * Into [chess]?
 
 ### Let's connect:
