@@ -122,7 +122,7 @@ I'm a [film director] turned developer around the start of 2021.
 ---
 
 [film director]: http://zahifarah.com/
-[chess]: (https://www.chess.com/member/vaylxx)
+[chess]: https://www.chess.com/member/vaylxx
 [twitter]: https://twitter.com/ZahiFarah
 [instagram]: https://www.instagram.com/zahi.farah/
 [linkedin]: https://www.linkedin.com/in/zahi-farah/
