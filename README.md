@@ -6,7 +6,7 @@ I'm a [film director] turned developer around the start of 2021.
 * Current stack: MERN (MongoDB, Express, React, Node), JS, HTML, CSS, Bootstrap 4/5.
 * On my radar: Solidity + Smart Contracts 📚
 * Excited about blockchain's potential, particularly projects that have to do with Privacy, Digital Identity, Oracle Networks, Cybersecurity, Decentralized Internet, Decentralized Storage and NFTs.
-* Into [chess] ♟️?
+* Into [chess]?
 
 #### Let's Connect
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
