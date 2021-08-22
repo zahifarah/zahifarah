@@ -1,14 +1,13 @@
 ### Hi there, I'm Zahi 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+I used to be a [Film Director](http://zahifarah.com/) but I've joined the dark side at the start of 2021 :)
 
-## I used to be a [!Film Director](http://zahifarah.com/) but I've joined the dark side at the start of 2021 :)
-
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+* Web 3.0 and Blockchain Development
+* MERN (MongoDB, Express, React, Node) ✅
+* Currently learning: Solidity + Smart Contracts 📚
+* Looking to collaborate on Blockchain related projects. Privacy, Digital Identity, Oracle Networks, Cybersecurity, Decentralized Internet, Decentralized Storage and NFTs are some of the topics I find particularly interesting.
+* @zahifarah on twitter/instagram
+* You can find me on [Chess.com](https://www.chess.com/member/vaylxx) if that's your thing as well :)
 
 ### Connect with me:
 
