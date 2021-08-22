@@ -1,15 +1,14 @@
 ### Hi there, I'm Zahi 👋
 
-I'm a [Film Director] turned developer.
+I'm a [film director] turned developer around the start of 2021.
 
 * Working my way towards Web3 and Blockchain Development
-* Web Dev stack: MERN (MongoDB, Express, React, Node) ✅
+* Current stack: MERN (MongoDB, Express, React, Node), JS, HTML, CSS, Bootstrap 4/5.
 * On my radar: Solidity + Smart Contracts 📚
 * Excited about blockchain's potential, particularly projects that have to do with: privacy, digital identity, oracle networks, cybersecurity, decentralized internet, decentralized storage and NFTs.
-* @zahifarah on twitter/instagram
 * You can find me on [Chess.com](https://www.chess.com/member/vaylxx) if that's your thing as well :)
 
-### Connect with me:
+### Let's connect:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -122,7 +121,7 @@ I'm a [Film Director] turned developer.
 
 ---
 
-[Film Director]: http://zahifarah.com/
+[film director]: http://zahifarah.com/
 [twitter]: https://twitter.com/ZahiFarah
 [instagram]: https://www.instagram.com/zahi.farah/
 [linkedin]: https://www.linkedin.com/in/zahi-farah/
