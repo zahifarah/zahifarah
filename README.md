@@ -2,10 +2,10 @@
 
 I used to be a [Film Director](http://zahifarah.com/) but I've joined the dark side at the start of 2021 :)
 
-* Web 3.0 and Blockchain Development
-* MERN (MongoDB, Express, React, Node) ✅
-* Currently learning: Solidity + Smart Contracts 📚
-* Looking to collaborate on Blockchain related projects. Privacy, Digital Identity, Oracle Networks, Cybersecurity, Decentralized Internet, Decentralized Storage and NFTs are some of the topics I find particularly interesting.
+* Working my way towards Web3 and Blockchain Development
+* Web Dev stack: MERN (MongoDB, Express, React, Node) ✅
+* On my radar: Solidity + Smart Contracts 📚
+* Excited about blockchain's potential, particularly projects that have to do with: privacy, digital identity, oracle networks, cybersecurity, decentralized internet, decentralized storage and NFTs.
 * @zahifarah on twitter/instagram
 * You can find me on [Chess.com](https://www.chess.com/member/vaylxx) if that's your thing as well :)
 
