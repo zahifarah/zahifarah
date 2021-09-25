@@ -2,7 +2,6 @@
 
 I'm a [film director] turned developer around the start of 2021.
 
-* Working my way towards Web3 and Blockchain Development, but first, deep dive into web development ⚡️. I see blockchain as an extension of the web.
 * Tech: MERN (MongoDB, Express, React, Node), Bootstrap 4/5 ✅ 
 * Currently studying advanced JavaScript concepts before touching another framework. Depth > syntactic sugar.
 * Excited about blockchain's potential, particularly projects that have to do with Privacy, Digital Identity, Oracle Networks, Cybersecurity, Decentralized Internet, Decentralized Storage and NFTs.
