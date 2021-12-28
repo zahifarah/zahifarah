@@ -3,8 +3,7 @@
 I'm a [film director] turned developer around the start of 2021.
 
 * Tech: MERN (MongoDB, Express, React, Node), Bootstrap 4/5 ✅ 
-* Currently studying advanced JavaScript concepts before touching another framework. Depth > syntactic sugar.
-* Excited about blockchain's potential, particularly projects that have to do with Privacy, Digital Identity, Oracle Networks, Cybersecurity, Decentralized Internet, Decentralized Storage and NFTs.
+* Excited about blockchain's potential ⚡️
 * Into [chess]?
 
 #### Let's Connect
