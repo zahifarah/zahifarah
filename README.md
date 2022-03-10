@@ -2,7 +2,7 @@
 
 I'm a film director turned developer around the start of 2021.
 
-* Tech stack: MERN (MongoDB, Express, React, Node), Bootstrap 4/5 ✅ 
+* Tech stack: MERN (MongoDB, Express, React, Node)
 * Tech stance: agnostic 🤘🏼
 * Excited about all things web, cybersecurity and blockchain ⚡️
 
