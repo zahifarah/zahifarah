@@ -1,6 +1,6 @@
 #### Hi there, I'm Zahi 👋🏼
 
-I'm a film director turned full stack web developer in 2021.
+I'm a film director turned full stack web developer.
 
 * Tech stack: React, SQL, MondoDB, Node, Express
 * Excited about all things web, cybersecurity and blockchain ⚡️
