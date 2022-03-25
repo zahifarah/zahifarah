@@ -2,7 +2,7 @@
 
 I'm a film director turned full stack web developer.
 
-* Tech stack: React, SQL, MondoDB, Node, Express
+* Tech stack: React, SQL, MondoDB/Mongoose, Node, Express
 * Excited about all things web, cybersecurity and blockchain ⚡️
 
 #### Let's Connect
